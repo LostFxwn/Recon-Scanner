@@ -1,0 +1,2 @@
+nmap.scanme.org
+example.com
